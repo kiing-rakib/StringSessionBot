@@ -10,6 +10,8 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Usage
 
+# [Video Tutorial](https://youtu.be/E1Bcsmc6ZL4)
+
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GreyMatter658/StringSessionBot)
